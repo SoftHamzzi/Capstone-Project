@@ -86,7 +86,9 @@
 
 주변환경 상호작용의 로직은 아래의 깃허브와 논문을 통해 참고할수 있다.
 파이썬 버전: [joonspk-research/generative_agents: Generative Agents: Interactive Simulacra of Human Behavior (github.com)](https://github.com/joonspk-research/generative_agents)
+<br>
 자바 버전: [nickm980/smallville: Generative Agents for video games. Based on Generative Agents: Interactive Simulacra of Human Behavior (github.com)](https://github.com/nickm980/smallville)
+<br>
 논문: [2304.03442 (arxiv.org)](https://arxiv.org/pdf/2304.03442)
 
 ===============================================================
