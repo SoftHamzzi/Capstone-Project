@@ -82,7 +82,7 @@
 6. LLM을 통해 대답이 출력된다.
 7. LocalNLP에 대답과 DB를 넣고 어떤 오브젝트들과 상호작용할지 결정한다. (LocalNLP: 문장과 관련된 아이템 추천. 쇼핑몰에서 자주 쓰임.)
 8. 캐릭터의 행동 계획을 저장하는 Plan 배열에 행동들을 저장한다. ("문을 닫고, 물을 마셔"와 같은 행동을 할 수 있도록)
-9. 캐릭터는 Plan에 따라 행동한다.
+9. 캐릭터는 Plan에 따라 행동한다. (행동은 유니티에서 구현. 유니티에서 지원하는 NavMesh를 사용하여 오브젝트로 이동할 수 있음.)
 
 주변환경 상호작용의 로직은 아래의 깃허브와 논문을 통해 참고할수 있다.
 파이썬 버전: [joonspk-research/generative_agents: Generative Agents: Interactive Simulacra of Human Behavior (github.com)](https://github.com/joonspk-research/generative_agents)
